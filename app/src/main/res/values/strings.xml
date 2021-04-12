@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NoficationActivity</string>
+    <string name="notify_button">Notify Me</string>
+    <string name="notify_text">Inactive</string>
+    <string name="channel_name">Notification center</string>
+    <string name="channel_description">Some channel</string>
+    <string name="notification_title">Mubarak Yaqoub</string>
+    <string name="notification_message">This is all about notification</string>
+    <string name="active_page">Active</string>
+</resources>
